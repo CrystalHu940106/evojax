@@ -1,0 +1,54 @@
+{
+  "network_info": {
+    "nodes": [
+      {
+        "id": 0,
+        "type": "input",
+        "activation": "sigmoid",
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "id": 1,
+        "type": "input",
+        "activation": "sigmoid",
+        "x": 0.0,
+        "y": 1.0
+      },
+      {
+        "id": 2,
+        "type": "hidden",
+        "activation": "sigmoid",
+        "x": 0.5,
+        "y": 0.5
+      }
+    ],
+    "connections": [
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 0.8,
+        "innovation": 0
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": -0.3,
+        "innovation": 1
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 1.2,
+        "innovation": 2
+      }
+    ],
+    "complexity": 6,
+    "fitness": 0.75
+  },
+  "metadata": {
+    "export_timestamp": "2025-08-21T11:11:38",
+    "genome_id": 4822284416,
+    "visualization_version": "2.0"
+  }
+}

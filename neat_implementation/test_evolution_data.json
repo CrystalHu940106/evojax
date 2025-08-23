@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "total_generations": 10,
+    "analysis_timestamp": "2025-08-21T11:16:58",
+    "analyzer_version": "1.0"
+  },
+  "evolution_snapshots": [
+    {
+      "generation": 0,
+      "complexity": {
+        "mean": 5.0,
+        "std": 0.0,
+        "max": 5,
+        "min": 5,
+        "median": 5.0,
+        "q25": 5.0,
+        "q75": 5.0
+      },
+      "innovation": {
+        "new_nodes": 5,
+        "new_connections": 0,
+        "unique_topologies": 1,
+        "innovation_rate": 0,
+        "structural_diversity": 0.05
+      },
+      "fitness_stats": {
+        "mean_fitness": 0.03765366427455854,
+        "std_fitness": 0.22790775947657146,
+        "max_fitness": 0.4459167539160695,
+        "min_fitness": -0.36096745374622674,
+        "median_fitness": 0.013562286140354051
+      },
+      "population_size": 20
+    },
+    {
+      "generation": 1,
+      "complexity": {
+        "mean": 5.0,
+        "std": 0.0,
+        "max": 5,
+        "min": 5,
+        "median": 5.0,
+        "q25": 5.0,
+        "q75": 5.0
+      },
+      "innovation": {
+        "new_nodes": 5,
+        "new_connections": 0,
+        "unique_topologies": 1,
+        "innovation_rate": 0,
+        "structural_diversity": 0.05
+      },
+      "fitness_stats": {
+        "mean_fitness": 0.0703555828324584,
+        "std_fitness": 0.20895211782469356,
+        "max_fitness": 0.6572555962089265,
+        "min_fitness": -0.33294382433652114,
+        "median_fitness": 0.04238440793335012
+      },
+      "population_size": 20
+    },
+    {
+      "generation": 2,
+      "complexity": {
+        "mean": 5.0,
+        "std": 0.0,
+        "max": 5,
+        "min": 5,
+        "median": 5.0,
+        "q25": 5.0,
+        "q75": 5.0
+      },
+      "innovation": {
+        "new_nodes": 5,
+        "new_connections": 0,
+        "unique_topologies": 1,
+        "innovation_rate": 0,
+        "structural_diversity": 0.05
+      },
+      "fitness_stats": {
+        "mean_fitness": 0.25084926820522246,
+        "std_fitness": 0.23169101426978853,
+        "max_fitness": 0.6397659493276012,
+        "min_fitness": -0.22328158061481357,
+        "median_fitness": 0.18987029381951626
+      },
+      "population_size": 20
+    },
+    {
+      "generation": 3,
+      "complexity": {
+        "mean": 9.6,
+        "std": 2.130727575266252,
+        "max": 13,
+        "min": 6,
+        "median": 9.5,
+        "q25": 8.0,
+        "q75": 11.0
+      },
+      "innovation": {
+        "new_nodes": 6,
+        "new_connections": 14,
+        "unique_topologies": 16,
+        "innovation_rate": 1.0,
+        "structural_diversity": 0.8
+      },
+      "fitness_stats": {
+        "mean_fitness": 0.346585016370122,
+        "std_fitness": 0.14419428480168806,
+        "max_fitness": 0.6344659960883736,
+        "min_fitness": 0.093837239827153,
+        "median_fitness": 0.3163762374295008
+      },
+      "population_size": 20
+    },
+    {
+      "generation": 4,
+      "complexity": {
+        "mean": 11.65,
+        "std": 2.5548972582082436,
+        "max": 16,
+        "min": 7,
+        "median": 11.5,
+        "q25": 9.75,
+        "q75": 13.25
+      },
+      "innovation": {
+        "new_nodes": 7,
+        "new_connections": 6,
+        "unique_topologies": 20,
+        "innovation_rate": 0.3,
+        "structural_diversity": 1.0
+      },
+      "fitness_stats": {
+        "mean_fitness": 0.41383159075375764,
+        "std_fitness": 0.2216491104342415,
+        "max_fitness": 0.8775395479050708,
+        "min_fitness": 0.13593973631719747,
+        "median_fitness": 0.4126678634736206
+      },
+      "population_size": 20
+    },
+    {
+      "generation": 5,
+      "complexity": {
+        "mean": 11.65,
+        "std": 3.1666228067138023,
+        "max": 19,
+        "min": 7,
+        "median": 11.0,
+        "q25": 10.0,
+        "q75": 12.25
+      },
+      "innovation": {
+        "new_nodes": 7,
+        "new_connections": 2,
+        "unique_topologies": 20,
+        "innovation_rate": 0.09523809523809523,
+        "structural_diversity": 1.0
+      },
+      "fitness_stats": {
+        "mean_fitness": 0.4981723195686043,
+        "std_fitness": 0.21499904872238973,
+        "max_fitness": 0.8670938537653894,
+        "min_fitness": -0.10959053192240098,
+        "median_fitness": 0.5216727803883989
+      },
+      "population_size": 20
+    },
+    {
+      "generation": 6,
+      "complexity": {
+        "mean": 12.3,
+        "std": 4.112177038990417,
+        "max": 21,
+        "min": 6,
+        "median": 13.0,
+        "q25": 8.0,
+        "q75": 15.25
+      },
+      "innovation": {
+        "new_nodes": 8,
+        "new_connections": 5,
+        "unique_topologies": 20,
+        "innovation_rate": 0.19230769230769232,
+        "structural_diversity": 1.0
+      },
+      "fitness_stats": {
+        "mean_fitness": 0.5620414379414169,
+        "std_fitness": 0.22066672229272075,
+        "max_fitness": 1.029755439694578,
+        "min_fitness": 0.052943090336393106,
+        "median_fitness": 0.5183442988616102
+      },
+      "population_size": 20
+    },
+    {
+      "generation": 7,
+      "complexity": {
+        "mean": 15.8,
+        "std": 4.545327270945404,
+        "max": 22,
+        "min": 7,
+        "median": 16.5,
+        "q25": 13.0,
+        "q75": 19.25
+      },
+      "innovation": {
+        "new_nodes": 9,
+        "new_connections": 3,
+        "unique_topologies": 19,
+        "innovation_rate": 0.10344827586206896,
+        "structural_diversity": 0.95
+      },
+      "fitness_stats": {
+        "mean_fitness": 0.7124563120933886,
+        "std_fitness": 0.20073020504878802,
+        "max_fitness": 1.0895330505138996,
+        "min_fitness": 0.24930807003458788,
+        "median_fitness": 0.6906606399944785
+      },
+      "population_size": 20
+    },
+    {
+      "generation": 8,
+      "complexity": {
+        "mean": 16.4,
+        "std": 5.209606511052442,
+        "max": 24,
+        "min": 7,
+        "median": 16.5,
+        "q25": 14.0,
+        "q75": 21.0
+      },
+      "innovation": {
+        "new_nodes": 9,
+        "new_connections": 7,
+        "unique_topologies": 20,
+        "innovation_rate": 0.2,
+        "structural_diversity": 1.0
+      },
+      "fitness_stats": {
+        "mean_fitness": 0.8369605555249281,
+        "std_fitness": 0.18339662368529216,
+        "max_fitness": 1.1450228290449183,
+        "min_fitness": 0.4837909568392287,
+        "median_fitness": 0.8163219282030638
+      },
+      "population_size": 20
+    },
+    {
+      "generation": 9,
+      "complexity": {
+        "mean": 16.35,
+        "std": 7.030469401113982,
+        "max": 30,
+        "min": 7,
+        "median": 15.5,
+        "q25": 10.0,
+        "q75": 21.25
+      },
+      "innovation": {
+        "new_nodes": 9,
+        "new_connections": 9,
+        "unique_topologies": 20,
+        "innovation_rate": 0.20930232558139536,
+        "structural_diversity": 1.0
+      },
+      "fitness_stats": {
+        "mean_fitness": 0.8791585045512406,
+        "std_fitness": 0.19508052085245614,
+        "max_fitness": 1.2299912343773092,
+        "min_fitness": 0.5938816876114182,
+        "median_fitness": 0.8541336254453583
+      },
+      "population_size": 20
+    }
+  ],
+  "summary_statistics": {
+    "complexity_growth_rate": 1.4790909090909095,
+    "innovation_efficiency": -0.21048925537309737,
+    "evolutionary_phases": [
+      {
+        "phase": "stable",
+        "start_generation": 0,
+        "end_generation": 2,
+        "duration": 2
+      },
+      {
+        "phase": "growth",
+        "start_generation": 2,
+        "end_generation": 4,
+        "duration": 2
+      },
+      {
+        "phase": "stable",
+        "start_generation": 4,
+        "end_generation": 5,
+        "duration": 1
+      },
+      {
+        "phase": "slow_change",
+        "start_generation": 5,
+        "end_generation": 6,
+        "duration": 1
+      },
+      {
+        "phase": "growth",
+        "start_generation": 6,
+        "end_generation": 7,
+        "duration": 1
+      },
+      {
+        "phase": "stable",
+        "start_generation": 7,
+        "end_generation": 9,
+        "duration": 2
+      }
+    ]
+  }
+}
