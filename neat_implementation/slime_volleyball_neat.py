@@ -26,7 +26,7 @@ try:
     )
 except ImportError:
     from neat_network import NEATNetworkJAX, NEATNetwork
-    from neat_core import NEATGenome
+    from .neat_core import NEATGenome
     from batch_config import (
         BatchEvaluationConfig, 
         BatchSizeOptimizer, 
