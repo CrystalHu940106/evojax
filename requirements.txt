@@ -25,3 +25,9 @@ tqdm>=4.62.0
 # Optional: for advanced GPU features
 # tensorflow-gpu>=2.8.0  # Only if needed for specific features
 
+
+# Transformers with PyTorch compatibility
+transformers>=4.30.0,<4.40.0
+torch>=2.0.0,<3.0.0
+torchvision>=0.15.0,<0.20.0
+torchaudio>=2.0.0,<3.0.0
